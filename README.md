@@ -10,7 +10,7 @@
 
 <br>
 
-Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Wwebsite-change_color):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Website-change_color):
 
 <br>
 
