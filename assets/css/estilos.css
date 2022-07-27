@@ -1,13 +1,3 @@
-/** header */
-* {
-  margin: 0;
-}
-.header {
-  width: 100% !important;
-  height: 6rem !important;
-}
-/** end header */
-
 .container {
   height: 100vh;
   width: 70vw;
